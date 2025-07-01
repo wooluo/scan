@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+SQLAlchemy
+psycopg2-binary
+requests
+python-dotenv
+pymysql
+passlib[bcrypt]
